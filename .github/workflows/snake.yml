@@ -1,4 +1,4 @@
-name: Generate GitHub Contribution Snake 🐍
+name: Generate GitHub Contribution 🐍
 
 on:
   schedule:         # Run automatically every 12 hours
