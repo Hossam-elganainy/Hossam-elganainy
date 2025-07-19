@@ -31,7 +31,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm an AI graduate and backend Django developer from Alexandria, Egypt.<br><br>
+I'm an AI graduate and backend Django developer from Cairo, Egypt.<br><br>
 - 🔭 I’m currently working on intelligent chatbots, booking systems, and virtual agents.<br>
 - 🎓 I hold a degree in Artificial Intelligence, with a passion for NLP, computer vision, and machine learning.<br>
 - 🛠 I enjoy building scalable APIs and backend infrastructures.<br>
@@ -73,6 +73,6 @@ I'm an AI graduate and backend Django developer from Alexandria, Egypt.<br><br>
 
 <h3 align="center">Thanks for visiting! 😊</h3>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/Hossam-elganainy/Hossam-elganainy/output/snake.svg)
