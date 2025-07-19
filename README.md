@@ -24,16 +24,16 @@
 
 <h1 align="center">Hey there 👋, I'm Hossam</h1>
 
-<p align="center">🎓 AI Graduate | 🧠 Machine Learning Enthusiast | 🛠 Backend Developer (Django)</p>
+<p align="center">🎓 AI Graduate | 🧠 ML & NLP Specialist | 🛠 Backend Developer (Django)</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on AI-powered chatbots, virtual agents, and booking systems  
-- 🎓 Degree in Artificial Intelligence — specialized in NLP, Computer Vision, and Deep Learning  
-- 🧠 Love building intelligent systems and backend APIs using Django  
-- 🎨 Also enjoy photography, drawing, and learning new technologies  
+- 🔭 Currently working on AI-powered chatbots, booking systems, and virtual agents  
+- 🎓 Degree in Artificial Intelligence — with a passion for NLP, Computer Vision, and Deep Learning  
+- 🧠 Enjoy solving complex problems using scalable backend architectures  
+- 🎨 Also into drawing, photography, and reading  
 
 ---
 
@@ -60,21 +60,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
-
+  
   <!-- NLP & CV -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
 </div>
 
+---
 
 
 ### 📊 GitHub Stats & Activity
 
-<!-- GitHub Stats -->
 ![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossam-elganainy&show_icons=true&theme=tokyonight)
 
-<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-elganainy&layout=compact&theme=tokyonight)
+
+---
+
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hossam-elganainy&theme=tokyo-night)
 
 ---
 
