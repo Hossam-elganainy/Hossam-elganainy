@@ -72,3 +72,7 @@ I'm an AI graduate and backend Django developer from Alexandria, Egypt.<br><br>
 ###
 
 <h3 align="center">Thanks for visiting! 😊</h3>
+
+## 🐍 Contribution Snake
+
+![GitHub Snake dark](https://raw.githubusercontent.com/Hossam-elganainy/Hossam-elganainy/output/snake.svg)
