@@ -2,77 +2,90 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/hossam-elganainy-152794246/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="mailto:hanyhossam93@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="https://github.com/Hossam-elganainy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=171515&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=171515&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 </div>
 
-###
+<br />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hossam-elganainy.Hossam-elganainy" />
 </div>
 
-###
+---
 
 <h1 align="center">Hey there 👋, I'm Hossam</h1>
 
-###
+<p align="center">🎓 AI Graduate | 🧠 Machine Learning Enthusiast | 🛠 Backend Developer (Django)</p>
 
-<h3 align="left">👨‍💻 About Me</h3>
+---
 
-<p align="left">
-I'm an AI graduate and backend Django developer from Cairo, Egypt.<br><br>
-- 🔭 I’m currently working on intelligent chatbots, booking systems, and virtual agents.<br>
-- 🎓 I hold a degree in Artificial Intelligence, with a passion for NLP, computer vision, and machine learning.<br>
-- 🛠 I enjoy building scalable APIs and backend infrastructures.<br>
-</p>
+### 👨‍💻 About Me
 
-###
+- 🔭 Currently working on AI-powered chatbots, virtual agents, and booking systems  
+- 🎓 Degree in Artificial Intelligence — specialized in NLP, Computer Vision, and Deep Learning  
+- 🧠 Love building intelligent systems and backend APIs using Django  
+- 🎨 Also enjoy photography, drawing, and learning new technologies  
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+---
+
+### 🛠️ Languages & Tools
 
 <div align="left">
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="NGINX" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+
+  <!-- DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="NGINX" />
+
+  <!-- AI/ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+
+  <!-- NLP & CV -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
 </div>
 
 
 
-<h3 align="left">🔥 My Stats</h3>
+### 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hossam-elganainy&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hossam-elganainy&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-</div>
+<!-- GitHub Stats -->
+![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossam-elganainy&show_icons=true&theme=tokyonight)
 
-###
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-elganainy&layout=compact&theme=tokyonight)
+
+---
+
+### 🐍 Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hossam-elganainy/Hossam-elganainy/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hossam-elganainy/Hossam-elganainy/output/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Hossam-elganainy/Hossam-elganainy/output/snake.svg" />
+</picture>
+
+---
 
 <h3 align="center">Thanks for visiting! 😊</h3>
-
-## 🐍 Contribution
-
-![GitHub Snake dark](https://raw.githubusercontent.com/Hossam-elganainy/Hossam-elganainy/output/snake.svg)
