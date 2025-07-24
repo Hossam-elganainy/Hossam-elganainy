@@ -71,9 +71,7 @@
 ### 📊 GitHub Stats & Activity
 
 ![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossam-elganainy&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-elganainy&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h9-tect&theme=dark)
 
 ---
