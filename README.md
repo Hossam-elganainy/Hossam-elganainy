@@ -2,6 +2,9 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hossam-elganainy.Hossam-elganainy" />
+</div>
 <h1 align="center">Hi there 👋, I'm Hossam Elganainy</h1>
 <h3 align="center">AI Engineer | Backend Developer (Django) | Computer Vision Enthusiast</h3>
 
