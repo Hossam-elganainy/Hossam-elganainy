@@ -57,13 +57,18 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hossam-elganainy&theme=tokyonight" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hossam-elganainy&show_icons=true&theme=tokyonight&hide=issues&count_private=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-elganainy&layout=compact&theme=tokyonight" />
-</p>
+### 📊 GitHub Stats & Activity
+
+![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossam-elganainy&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-elganainy&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hossam-elganainy&theme=dark)
+
+---
+
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hossam-elganainy&theme=tokyo-night)
 
 ---
 
