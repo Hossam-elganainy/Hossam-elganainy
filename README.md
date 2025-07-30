@@ -78,7 +78,8 @@
 
 ### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hossam-elganainy&theme=tokyo-night)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hossam-elganainy&theme=tokyonight)
+
 
 ---
 
