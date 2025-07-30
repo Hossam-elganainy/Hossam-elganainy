@@ -33,7 +33,6 @@
 - 🔭 Currently working on AI-powered chatbots, booking systems, and virtual agents  
 - 🎓 Degree in Artificial Intelligence — with a passion for NLP, Computer Vision, and Deep Learning  
 - 🧠 Enjoy solving complex problems using scalable backend architectures  
-- 🎨 Also into drawing, photography, and reading  
 
 ---
 
@@ -78,8 +77,7 @@
 
 ### 📈 Contribution Graph
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hossam-elganainy&theme=tokyonight)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hossam-elganainy&theme=tokyo-night)
 
 ---
 
