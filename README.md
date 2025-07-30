@@ -12,6 +12,9 @@
   <a href="https://github.com/Hossam-elganainy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=171515&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
+  <a href="https://github.com/Hossam-elganainy/Hossam-elganainy/raw/main/assets/Hossam_Elganainy_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=google-drive&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
 </div>
 
 <br />
@@ -39,39 +42,29 @@
 ### 🛠️ Languages & Tools
 
 <div align="left">
-  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-
-  <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-
-  <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="NGINX" />
-
-  <!-- AI/ML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
-  
-  <!-- NLP & CV -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face" />
 </div>
 
 ---
 
-
 ### 📊 GitHub Stats & Activity
 
 ![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossam-elganainy&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-elganainy&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hossam-elganainy&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hossam-elganainy&theme=tokyonight)
 
 ---
 
@@ -81,7 +74,7 @@
 
 ---
 
-### 🐍 Contribution
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hossam-elganainy/Hossam-elganainy/output/snake.svg" />
