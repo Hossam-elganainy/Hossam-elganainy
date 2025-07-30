@@ -28,7 +28,15 @@
 <h1 align="center">Hey there 👋, I'm Hossam</h1>
 
 <p align="center">🎓 AI Graduate | 🧠 ML & NLP Specialist | 🛠 Backend Developer (Django)</p>
+---
 
+### 📄 My Resume
+
+<div align="center">
+  <a href="https://github.com/Hossam-elganainy/Hossam-elganainy/raw/main/Hossam_Elganainy_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=View+My+Resume&logo=Adobe+Acrobat+Reader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="30" />
+  </a>
+</div>
 ---
 
 ### 👨‍💻 About Me
