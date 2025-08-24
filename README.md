@@ -36,8 +36,13 @@
   <a href="https://www.linkedin.com/in/hossam-elganainy-152794246/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="https://hossam-elganainy.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
 
+</a>
+  </a>
+</p>
 ---
 
 ### 🛠️ Languages & Tools
