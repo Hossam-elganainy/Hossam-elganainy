@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hossam-elganainy.Hossam-elganainy" />
 </div>
+
 <h1 align="center">Hi there 👋, I'm Hossam Elganainy</h1>
 <h3 align="center">AI Engineer | Backend Developer (Django) | Computer Vision Enthusiast</h3>
 
@@ -37,12 +38,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://hossam-elganainy.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=githubpages&logoColor=white" />
-</a>
-
-</a>
+    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -65,18 +64,28 @@
 
 ---
 
-
 ### 📊 GitHub Stats & Activity
 
-![Hossam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hossam-elganainy&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-elganainy&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hossam-elganainy&theme=dark)
+<p align="center">
+  <!-- Updated to include private + all commits -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hossam-elganainy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Hossam's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-elganainy&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hossam-elganainy&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hossam-elganainy&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hossam-elganainy&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
@@ -87,3 +96,7 @@
 </p>
 
 ---
+
+<div align="center">
+  <i>✨ Keep pushing code — your next big project might already be in the making! ✨</i>
+</div>
