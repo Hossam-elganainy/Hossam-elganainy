@@ -2,6 +2,7 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hossam-elganainy.Hossam-elganainy" />
 </div>
@@ -17,7 +18,7 @@
 - 🧠 I build intelligent systems using `Transformers`, `YOLO`, `Hugging Face`, and `OpenCV`  
 - 💼 Backend-focused with strong expertise in `Django`, REST APIs, and scalable systems  
 - 🚀 Always exploring new tools in the AI/ML ecosystem  
-- 📫 How to reach me: hanyhossam93@gmail.com  
+- 📫 How to reach me: **hanyhossam93@gmail.com**  
 
 ---
 
@@ -67,16 +68,16 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Updated to include private + all commits -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hossam-elganainy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Hossam's GitHub Stats" />
+  <!-- ✅ Using your personal deployed stats API -->
+  <img src="https://github-readme-stats-hossam-nine.vercel.app/api?username=Hossam-elganainy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Hossam's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossam-elganainy&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-hossam-nine.vercel.app/api/top-langs/?username=Hossam-elganainy&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hossam-elganainy&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hossam-elganainy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
