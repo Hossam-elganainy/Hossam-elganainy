@@ -69,7 +69,7 @@
 
 <p align="center">
   <!-- ✅ Using your personal deployed stats API -->
-  <img src="https://github-readme-stats-hossam-nine.vercel.app/api?username=Hossam-elganainy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Hossam's GitHub Stats" />
+  <img src="https://github-readme-stats-hossam-nine.vercel.app/api?username=Hossam-elganainy&show_icons=true&theme=tokyonight" alt="Hossam's GitHub Stats" />
 </p>
 
 <p align="center">
